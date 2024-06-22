@@ -103,3 +103,4 @@ Profiliniz sağ üstten 3 çizgi  about...
 
 - Son olarak   http://SUNUCU-IP:3000 şeklinde  kontrol edebilirsiniz.
 
+![image](https://github.com/Sazy67/Farcaster_Node/blob/main/www.png)
